@@ -11,16 +11,31 @@
   </a>
 </p>
 
-## Header
-// todo
+## Getting Started
+<details>
+<summary>How to set the header？</summary>
 
-## Body
-// todo
+YOUR TABLE
 
-## Footer
-// todo
+</details>
+
+<details>
+<summary>How to set the content？</summary>
+
+YOUR TABLE
+
+</details>
+
+<details>
+<summary>How to set the footer？</summary>
+
+YOUR TABLE
+
+</details>
 
 ## Author
+
+
 
 👤 **dangjin**
 
@@ -31,5 +46,6 @@
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-readme-generator-tools&type=Date)](https://star-history.com/#DangJin/awesome-readme-generator-tools&Date)
