@@ -94,4 +94,3 @@ Give a ⭐️ if this project helped you!
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-readme-generator-tools&type=Date)](https://star-history.com/#DangJin/awesome-readme-generator-tools&Date)
-
