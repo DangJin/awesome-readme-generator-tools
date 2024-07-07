@@ -68,13 +68,13 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
   - [Badges generator](https://github.com/badges/shields)
   ![img](https://img.shields.io/github/stars/badges/shields?label=Star)
-    <img src="https://img.shields.io/github/contributors/badges/shields" /> <img src="https://img.shields.io/opencollective/backers/shields" /> <img src="https://img.shields.io/opencollective/sponsors/shields" /> <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /> <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status">
+<img src="https://img.shields.io/github/contributors/badges/shields" /> <img src="https://img.shields.io/opencollective/backers/shields" /> <img src="https://img.shields.io/opencollective/sponsors/shields" /> <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /> <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status">
 
 ## 📉 Readme Stats
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 ![img](https://img.shields.io/github/stars/anuraghazra/github-readme-stats?label=Star)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  
+
 ## 🎁 Other tools 
 - Emoji Cheat Sheet: https://www.webfx.com/tools/emoji-cheat-sheet
 - 协议: https://choosealicense.com/
